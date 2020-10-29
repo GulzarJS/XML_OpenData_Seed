@@ -5,13 +5,11 @@
 package model;
 
 
-import java.time.LocalDate;
-
 public class Seed {
 
-    private long id;
+    private int id;
     private String name;
-    private long code;
+    private int code;
     private String hibridName;
     private String patentNumber;
     private String patentOwner;
@@ -19,11 +17,11 @@ public class Seed {
     private String endDate;
     private String startRegisterDate;
 
-    public long getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -35,11 +33,11 @@ public class Seed {
         this.name = name;
     }
 
-    public long getCode() {
+    public int getCode() {
         return code;
     }
 
-    public void setCode(long code) {
+    public void setCode(int code) {
         this.code = code;
     }
 
