@@ -1,0 +1,2521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<SEEDS>
+
+    <SEED>
+        <ID>1</ID>
+        <NAME>Paxlal?-T?r?v?z bitkil?ri T?r?v?z noxudu - Pisum sativum subsp. Sativum</NAME>
+        <CODE>600113</CODE>
+        <HIBRID_NAME>Namiq</HIBRID_NAME>
+        <PATENT_NUMBER>?00125 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+
+    <SEED>
+        <ID>2</ID>
+        <NAME>?üyüd - Anethum graveolens L. </NAME>
+        <CODE>9201211</CODE>
+        <HIBRID_NAME>Otello</HIBRID_NAME>
+        <PATENT_NUMBER>?00029 </PATENT_NUMBER>
+        <START_DATE>1995-02-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2016-12-31</END_DATE>
+        <START_REGISTER_DATE>1996</START_REGISTER_DATE>
+    </SEED>
+<!--    <SEED>-->
+<!--        <ID>3</ID>-->
+<!--        <NAME>Razyana -Foeniculum vulgare Mill.</NAME>-->
+<!--        <CODE>9104631</CODE>-->
+<!--        <HIBRID_NAME>A?cab?di</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00030</PATENT_NUMBER>-->
+<!--        <START_DATE> </START_DATE>-->
+<!--        <PATENT_OWNER>Az?rbaycan K?nd T?s?rrüfat? Akademiyas?</PATENT_OWNER>-->
+<!--        <END_DATE>2015-12-31</END_DATE>-->
+<!--        <START_REGISTER_DATE>1995</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+    <SEED>
+        <ID>4</ID>
+        <NAME>Bostan Bitkil?ri Süfr? qarp?z? - Citrullus vulgaris Pang.</NAME>
+        <CODE>9102710</CODE>
+        <HIBRID_NAME>M?rcan</HIBRID_NAME>
+        <PATENT_NUMBER>?00034 </PATENT_NUMBER>
+        <START_DATE>1996-02-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2016-12-31</END_DATE>
+        <START_REGISTER_DATE>1996</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>5</ID>
+        <NAME>Bostan Bitkil?ri Yemi? -Cucumis melo L. </NAME>
+        <CODE>1400389</CODE>
+        <HIBRID_NAME>Veteren</HIBRID_NAME>
+        <PATENT_NUMBER>? 00226 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>6</ID>
+        <NAME>Bostan Bitkil?ri Yemi? -Cucumis melo L. </NAME>
+        <CODE>1400240</CODE>
+        <HIBRID_NAME>Nazl?</HIBRID_NAME>
+        <PATENT_NUMBER>? 00227 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>AMEA, Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>7</ID>
+        <NAME>Tut a?ac? -Morus L.</NAME>
+        <CODE>8102465</CODE>
+        <HIBRID_NAME>AzNII? 7</HIBRID_NAME>
+        <PATENT_NUMBER>?00062 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2021-12-31</END_DATE>
+        <START_REGISTER_DATE>2001</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>8</ID>
+        <NAME>Tut a?ac? -Morus L.</NAME>
+        <CODE>9103651</CODE>
+        <HIBRID_NAME>Ba?ça tut</HIBRID_NAME>
+        <PATENT_NUMBER>?00105 </PATENT_NUMBER>
+        <START_DATE>2007-04-12</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2028-12-31</END_DATE>
+        <START_REGISTER_DATE>2008</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>9</ID>
+        <NAME>Tut a?ac? -Morus L.</NAME>
+        <CODE>132</CODE>
+        <HIBRID_NAME>Yunus tut</HIBRID_NAME>
+        <PATENT_NUMBER>?00140 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>10</ID>
+        <NAME>Tut a?ac? -Morus L.</NAME>
+        <CODE>100080</CODE>
+        <HIBRID_NAME>M?hs?ti 900</HIBRID_NAME>
+        <PATENT_NUMBER>?00157 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>11</ID>
+        <NAME>Tut a?ac? -Morus L.</NAME>
+        <CODE>700061</CODE>
+        <HIBRID_NAME>Na?? tut </HIBRID_NAME>
+        <PATENT_NUMBER> ? 00228 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Heyvandarl?q ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2042-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+<!--    <SEED>-->
+<!--        <ID>12</ID>-->
+<!--        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>-->
+<!--        <HIBRID_NAME>Almaz x Ya?ar Ya?ar x Almaz</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00005 </PATENT_NUMBER>-->
+<!--        <START_DATE>1992-03-05</START_DATE>-->
+<!--        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>-->
+<!--        <END_DATE>2013-12-31</END_DATE>-->
+<!--        <START_REGISTER_DATE>1993</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+    <SEED>
+        <ID>13</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>8800618</CODE>
+        <HIBRID_NAME>Ukrayna x Yubileynaya Yubileynaya x Ukrayna.1</HIBRID_NAME>
+        <PATENT_NUMBER>?00004 </PATENT_NUMBER>
+        <START_DATE>1992-03-05</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2013-12-31</END_DATE>
+        <START_REGISTER_DATE>1993</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>14</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>8800618</CODE>
+        <HIBRID_NAME>Yubileynaya</HIBRID_NAME>
+        <PATENT_NUMBER>?00040 </PATENT_NUMBER>
+        <START_DATE>1997-03-28</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1997</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>15</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>8606390</CODE>
+        <HIBRID_NAME>Ya?ar</HIBRID_NAME>
+        <PATENT_NUMBER>?00041 </PATENT_NUMBER>
+        <START_DATE>1997-03-28</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1997</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>16</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>8606390</CODE>
+        <HIBRID_NAME>Almaz</HIBRID_NAME>
+        <PATENT_NUMBER>?00042 </PATENT_NUMBER>
+        <START_DATE>1997-03-28</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik institutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1997</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>17</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9500146</CODE>
+        <HIBRID_NAME>Mayak2 x Mayak3</HIBRID_NAME>
+        <PATENT_NUMBER>?00063 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2021-12-31</END_DATE>
+        <START_REGISTER_DATE>2001</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>18</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9500138</CODE>
+        <HIBRID_NAME>Mayak3 x Mayak2</HIBRID_NAME>
+        <PATENT_NUMBER>?00064 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2021-12-31</END_DATE>
+        <START_REGISTER_DATE>2001</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>19</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9500197</CODE>
+        <HIBRID_NAME>Mayak2 (cins)</HIBRID_NAME>
+        <PATENT_NUMBER> ?00074 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2022-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>20</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9500189</CODE>
+        <HIBRID_NAME>Mayak3 (cins)</HIBRID_NAME>
+        <PATENT_NUMBER>?00075 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2022-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>21</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9800123</CODE>
+        <HIBRID_NAME>Ya?ar x G?nc? 6</HIBRID_NAME>
+        <PATENT_NUMBER>?00076 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>22</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9800115</CODE>
+        <HIBRID_NAME>G?nc? 6 x Ya?ar</HIBRID_NAME>
+        <PATENT_NUMBER>?00077 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>23</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9400095</CODE>
+        <HIBRID_NAME>Azadl?q x ?ntiq?</HIBRID_NAME>
+        <PATENT_NUMBER>?00078 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>24</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9400103</CODE>
+        <HIBRID_NAME>?ntiq? x Azadl?q</HIBRID_NAME>
+        <PATENT_NUMBER>?00079 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>25</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9800158</CODE>
+        <HIBRID_NAME>G?nc? 6</HIBRID_NAME>
+        <PATENT_NUMBER>?00080 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>26</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9400176</CODE>
+        <HIBRID_NAME>Azadl?q (cins)</HIBRID_NAME>
+        <PATENT_NUMBER>?00081 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>27</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>9400184</CODE>
+        <HIBRID_NAME>?ntiq? (cins)</HIBRID_NAME>
+        <PATENT_NUMBER>?00082 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>28</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>500054</CODE>
+        <HIBRID_NAME>Mayak 1</HIBRID_NAME>
+        <PATENT_NUMBER>?000118 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>29</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>500062</CODE>
+        <HIBRID_NAME>Çinar </HIBRID_NAME>
+        <PATENT_NUMBER>?00119 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>30</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>500038</CODE>
+        <HIBRID_NAME>Mayak 1 x Çinar</HIBRID_NAME>
+        <PATENT_NUMBER>?00120 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>31</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>500062</CODE>
+        <HIBRID_NAME>Çinar x Mayak 1</HIBRID_NAME>
+        <PATENT_NUMBER>?00121 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>32</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>700118</CODE>
+        <HIBRID_NAME>GE-143x?ZEM-4</HIBRID_NAME>
+        <PATENT_NUMBER>?00141 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA ??ki Regional Elm M?rk?zi</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>33</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>700126</CODE>
+        <HIBRID_NAME>?ZEM-4xGE-143</HIBRID_NAME>
+        <PATENT_NUMBER> ?00142 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA ??ki Regional Elm M?rk?zi</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>34</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>700169</CODE>
+        <HIBRID_NAME>?ZEM-4 </HIBRID_NAME>
+        <PATENT_NUMBER>?00143 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA ??ki Regional Elm M?rk?zi</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>35</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>700150</CODE>
+        <HIBRID_NAME>GE-143</HIBRID_NAME>
+        <PATENT_NUMBER>?00144 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA ??ki Regional Elm M?rk?zi</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>36</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>1000160</CODE>
+        <HIBRID_NAME>Hessa2/1x B?xtiyar</HIBRID_NAME>
+        <PATENT_NUMBER>?00158 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>37</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>900571</CODE>
+        <HIBRID_NAME>Mirb??ir 128</HIBRID_NAME>
+        <PATENT_NUMBER>?00025 </PATENT_NUMBER>
+        <START_DATE>1995-02-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1996</START_REGISTER_DATE>
+    </SEED>
+<!--    <SEED>-->
+<!--        <ID>38</ID>-->
+<!--        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>-->
+<!--        <HIBRID_NAME>T?r?qqi</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00031 </PATENT_NUMBER>-->
+<!--        <START_DATE>1996-02-29</START_DATE>-->
+<!--        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>-->
+<!--        <START_REGISTER_DATE>1996</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+    <SEED>
+        <ID>39</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>9400010</CODE>
+        <HIBRID_NAME>Az?ri</HIBRID_NAME>
+        <PATENT_NUMBER>?00045 </PATENT_NUMBER>
+        <START_DATE>1998-03-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2019-12-31</END_DATE>
+        <START_REGISTER_DATE>1999</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>40</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>9500014</CODE>
+        <HIBRID_NAME>?kinçi 84</HIBRID_NAME>
+        <PATENT_NUMBER> ?00050 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2020-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>41</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>9700013</CODE>
+        <HIBRID_NAME>Qiym?tli 2/17</HIBRID_NAME>
+        <PATENT_NUMBER>?00059 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2021-12-31</END_DATE>
+        <START_REGISTER_DATE>2001</START_REGISTER_DATE>
+    </SEED>
+<!--    <SEED>-->
+<!--        <ID>42</ID>-->
+<!--        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>-->
+<!--        <CODE>100021</CODE>-->
+<!--        <HIBRID_NAME>Nurlu 99</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00087 </PATENT_NUMBER>-->
+<!--        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>-->
+<!--        <END_DATE>2025-12-31</END_DATE>-->
+<!--        <START_REGISTER_DATE>2005</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+    <SEED>
+        <ID>43</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>19</CODE>
+        <HIBRID_NAME>?z?m?tli 95</HIBRID_NAME>
+        <PATENT_NUMBER>?00086 </PATENT_NUMBER>
+        <START_DATE>2004-03-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2014-12-31</END_DATE>
+        <START_REGISTER_DATE>2005</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>44</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>35</CODE>
+        <HIBRID_NAME>Qobustan</HIBRID_NAME>
+        <PATENT_NUMBER>?00096 </PATENT_NUMBER>
+        <START_DATE>2006-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2007</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>45</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>9900021</CODE>
+        <HIBRID_NAME>??ki 1</HIBRID_NAME>
+        <PATENT_NUMBER>?00097 </PATENT_NUMBER>
+        <START_DATE>2006-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2007</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>46</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>200018</CODE>
+        <HIBRID_NAME>Ruzi 84</HIBRID_NAME>
+        <PATENT_NUMBER>?00098 </PATENT_NUMBER>
+        <START_DATE>2006-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2007</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>47</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>100030</CODE>
+        <HIBRID_NAME>U?ur</HIBRID_NAME>
+        <PATENT_NUMBER>?00103 </PATENT_NUMBER>
+        <START_DATE>2007-04-12</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2028-12-31</END_DATE>
+        <START_REGISTER_DATE>2008</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>48</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>400017</CODE>
+        <HIBRID_NAME>Aran</HIBRID_NAME>
+        <PATENT_NUMBER>?00117 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>49</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>600024</CODE>
+        <HIBRID_NAME>Tale-38</HIBRID_NAME>
+        <PATENT_NUMBER>?00131 </PATENT_NUMBER>
+        <START_DATE>2010-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2030-12-31</END_DATE>
+        <START_REGISTER_DATE>2010</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>50</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>600016</CODE>
+        <HIBRID_NAME>Q?rm?z?gül 1</HIBRID_NAME>
+        <PATENT_NUMBER>?00136 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>51</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>100013</CODE>
+        <HIBRID_NAME>Murov 2</HIBRID_NAME>
+        <PATENT_NUMBER>?00137 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>52</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>800015</CODE>
+        <HIBRID_NAME>A?al?</HIBRID_NAME>
+        <PATENT_NUMBER> ?00151 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>53</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>900010</CODE>
+        <HIBRID_NAME>Zirv? </HIBRID_NAME>
+        <PATENT_NUMBER>?00152 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>54</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1000012</CODE>
+        <HIBRID_NAME>Q?z?l bu?da</HIBRID_NAME>
+        <PATENT_NUMBER>?00165 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>55</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1000039</CODE>
+        <HIBRID_NAME>??f?q 2</HIBRID_NAME>
+        <PATENT_NUMBER>?00166 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>56</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1000020</CODE>
+        <HIBRID_NAME>Fatim?</HIBRID_NAME>
+        <PATENT_NUMBER>?00167 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>57</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>700010</CODE>
+        <HIBRID_NAME>Gün??li </HIBRID_NAME>
+        <PATENT_NUMBER>? 00184 </PATENT_NUMBER>
+        <START_DATE>2015-04-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2035-12-31</END_DATE>
+        <START_REGISTER_DATE>2015</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>58</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1200011</CODE>
+        <HIBRID_NAME>F?r?him</HIBRID_NAME>
+        <PATENT_NUMBER> ? 00190 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ?kinçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>59</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1100017</CODE>
+        <HIBRID_NAME>Ab?eron</HIBRID_NAME>
+        <PATENT_NUMBER>? 00191 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>AMEA-n?n Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>60</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1200020</CODE>
+        <HIBRID_NAME>L?yaq?tli 80</HIBRID_NAME>
+        <PATENT_NUMBER> ? 00206 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ?kinçilik ET ?nstitutu </PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>61</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1300040</CODE>
+        <HIBRID_NAME>P?rvin</HIBRID_NAME>
+        <PATENT_NUMBER> ? 00207 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ?kinçilik ET ?nstitutu </PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>62</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1450315</CODE>
+        <HIBRID_NAME>Gallio</HIBRID_NAME>
+        <PATENT_NUMBER>? 00208 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Probstdorfer Saatzucht Ges. m.b.H.  CoGK. Avstriya</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>63</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1450856</CODE>
+        <HIBRID_NAME>Midas</HIBRID_NAME>
+        <PATENT_NUMBER>? 00209 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Probstdorfer Saatzucht Ges. m.b.H.  CoGK. Avstriya</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>64</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1450755</CODE>
+        <HIBRID_NAME>Balaton</HIBRID_NAME>
+        <PATENT_NUMBER>? 00210 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Probstdorfer Saatzucht Ges. m.b.H.  CoGK. Avstriya</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>65</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q yum?aq bu?da -Triticum aestivum L. </NAME>
+        <CODE>1450745</CODE>
+        <HIBRID_NAME>Gaudio</HIBRID_NAME>
+        <PATENT_NUMBER>? 00211 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Probstdorfer Saatzucht Ges. m.b.H.  CoGK. Avstriya</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>66</ID>
+        <NAME>D?nli-Paxlal? bitkil?r Noxud (nut) -Cicer arietinum L. </NAME>
+        <CODE>9400044</CODE>
+        <HIBRID_NAME>Nail</HIBRID_NAME>
+        <PATENT_NUMBER>?00066 </PATENT_NUMBER>
+        <START_DATE>2001-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2022-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>67</ID>
+        <NAME>D?nli-Paxlal? bitkil?r Noxud (nut) -Cicer arietinum L. </NAME>
+        <CODE>200042</CODE>
+        <HIBRID_NAME>N?rmin</HIBRID_NAME>
+        <PATENT_NUMBER> ?00092 </PATENT_NUMBER>
+        <START_DATE>2005-04-14</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2026-12-31</END_DATE>
+        <START_REGISTER_DATE>2006</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>68</ID>
+        <NAME>D?nli-Paxlal? bitkil?r Noxud (nut) -Cicer arietinum L. </NAME>
+        <CODE>900044</CODE>
+        <HIBRID_NAME>Sultan </HIBRID_NAME>
+        <PATENT_NUMBER>?00155 </PATENT_NUMBER>
+        <START_DATE>2005-04-14</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>69</ID>
+        <NAME>D?nli-Paxlal? bitkil?r Noxud (nut) -Cicer arietinum L. </NAME>
+        <CODE>1000071</CODE>
+        <HIBRID_NAME>Qaraca 85</HIBRID_NAME>
+        <PATENT_NUMBER>?00170 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>AMEA Naxç?van Bioresurslar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+<!--    <SEED>-->
+<!--        <ID>70</ID>-->
+<!--        <NAME>D?nli-Paxlal? bitkil?r Yerf?nd??? -Arachis hypogaea L.</NAME>-->
+<!--        <CODE>1000080</CODE>-->
+<!--        <HIBRID_NAME>Ç?r?z</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00172</PATENT_NUMBER>-->
+<!--        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>-->
+<!--        <END_DATE>2034-12-31</END_DATE>-->
+<!--        <START_REGISTER_DATE>2014</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+
+<!--    <SEED>-->
+<!--        <ID>71</ID>-->
+<!--        <NAME>Yem bitkil?ri Yonca - Medicado L. </NAME>-->
+<!--        <CODE>9103090</CODE>-->
+<!--        <HIBRID_NAME>Aran</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00026 </PATENT_NUMBER>-->
+<!--        <PATENT_OWNER>Az?rbaycan ET Yemçilik,Ç?m?nçilik v? Otlaqlar ?nstitutu</PATENT_OWNER>-->
+<!--        <END_DATE>2016-12-31</END_DATE>-->
+<!--        <START_REGISTER_DATE>1996</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+
+    <SEED>
+        <ID>72</ID>
+        <NAME>Yem bitkil?ri Yonca - Medicado L. </NAME>
+        <CODE>600032</CODE>
+        <HIBRID_NAME>A?stafa 1</HIBRID_NAME>
+        <PATENT_NUMBER>?00139 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Yemçilik,Ç?m?nçilik v? Otlaqlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>73</ID>
+        <NAME>Yem bitkil?ri Yonca - Medicado L. </NAME>
+        <CODE>700209</CODE>
+        <HIBRID_NAME>A?stafa 2</HIBRID_NAME>
+        <PATENT_NUMBER>?00173 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Yemçilik,Ç?m?nçilik v? Otlaqlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>74</ID>
+        <NAME>Yem bitkil?ri Yonca - Medicado L. </NAME>
+        <CODE>700209</CODE>
+        <HIBRID_NAME>A?stafa 2</HIBRID_NAME>
+        <PATENT_NUMBER>?00173 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Yemçilik,Ç?m?nçilik v? Otlaqlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>75</ID>
+        <NAME>Yem bitkil?ri Yonca - Medicado L. </NAME>
+        <CODE>900052</CODE>
+        <HIBRID_NAME>Yemçilik ?nstitutu 16 </HIBRID_NAME>
+        <PATENT_NUMBER>?00185 </PATENT_NUMBER>
+        <START_DATE>2015-04-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Yemçilik,Ç?m?nçilik v? Otlaqlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2035-12-31</END_DATE>
+        <START_REGISTER_DATE>2015</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>76</ID>
+        <NAME>Yem bitkil?ri Yonca - Medicado L. </NAME>
+        <CODE>1300091</CODE>
+        <HIBRID_NAME>Yaz çiç?yi</HIBRID_NAME>
+        <PATENT_NUMBER>? 00215 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>?kinçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>77</ID>
+        <NAME>Yem bitkil?ri Xa?a - Onobrychis viciaefolia Scop. </NAME>
+        <CODE>8801070</CODE>
+        <HIBRID_NAME> AZNIIKL v? p 495</HIBRID_NAME>
+        <PATENT_NUMBER>?00104 </PATENT_NUMBER>
+        <START_DATE>2007-04-12</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Yemçilik,Ç?m?nçilik v? Otlaqlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2028-12-31</END_DATE>
+        <START_REGISTER_DATE>2008</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>78</ID>
+        <NAME>Yem bitkil?ri Çobantoppuzu - Dactylis glomerata L.  </NAME>
+        <CODE>8801010</CODE>
+        <HIBRID_NAME>AZNIIKL ip-3</HIBRID_NAME>
+        <PATENT_NUMBER>?00027 </PATENT_NUMBER>
+        <START_DATE>1995-02-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Yemçilik,Ç?m?nçilik v? Otlaqlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2016-12-31</END_DATE>
+        <START_REGISTER_DATE>1996</START_REGISTER_DATE>
+    </SEED>
+
+<!--    <SEED>-->
+<!--        <ID>79</ID>-->
+<!--        <NAME>Yem bitkil?ri ?zg?n -Kochia prostrata Schrad.  </NAME>-->
+<!--        <HIBRID_NAME>Qobustan</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00035 </PATENT_NUMBER>-->
+<!--        <START_DATE>1996-02-29</START_DATE>-->
+<!--        <PATENT_OWNER>Az?rbaycan ET Yemçilik,Ç?m?nçilik v? Otlaqlar ?nstitutu</PATENT_OWNER>-->
+<!--        <END_DATE>2017-12-31</END_DATE>-->
+<!--        <START_REGISTER_DATE>1997</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+    <SEED>
+        <ID>80</ID>
+        <NAME>Texniki bitkil?r Tütün - Nicotiana tabacum L. </NAME>
+        <CODE>9101721</CODE>
+        <HIBRID_NAME>Zaqatala iriyarpaql?s?</HIBRID_NAME>
+        <PATENT_NUMBER>?00021 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu Zaqatala ZTS</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>81</ID>
+        <NAME>Texniki bitkil?r Tütün - Nicotiana tabacum L. </NAME>
+        <CODE>9500120</CODE>
+        <HIBRID_NAME>Zaqatala 1</HIBRID_NAME>
+        <PATENT_NUMBER>?00071 </PATENT_NUMBER>
+        <START_DATE>2004-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET "EL?T" E?B ?kiçilik ?nstitutu, Zaqatala ZTS</PATENT_OWNER>
+        <END_DATE>2022-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>82</ID>
+        <NAME>Texniki bitkil?r Tütün - Nicotiana tabacum L. </NAME>
+        <CODE>9900080</CODE>
+        <HIBRID_NAME>Trapezond 1</HIBRID_NAME>
+        <PATENT_NUMBER>?00100 </PATENT_NUMBER>
+        <START_DATE>2006-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu Zaqatala ZTS</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2007</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>83</ID>
+        <NAME>Texniki bitkil?r Tütün - Nicotiana tabacum L. </NAME>
+        <CODE>101341</CODE>
+        <HIBRID_NAME>Zaqatala dubeki</HIBRID_NAME>
+        <PATENT_NUMBER>? 00196 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ?kinçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>84</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>9106087</CODE>
+        <HIBRID_NAME>AzN?X? 104</HIBRID_NAME>
+        <PATENT_NUMBER>?00018 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>85</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>9006060</CODE>
+        <HIBRID_NAME>AzN?X? 170</HIBRID_NAME>
+        <PATENT_NUMBER>?00019 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>86</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>9006079</CODE>
+        <HIBRID_NAME>AP 317</HIBRID_NAME>
+        <PATENT_NUMBER>?00020 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan EA Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>87</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>9205268</CODE>
+        <HIBRID_NAME>AzNIXI 195</HIBRID_NAME>
+        <PATENT_NUMBER>?00043 </PATENT_NUMBER>
+        <START_DATE>1998-03-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2019-12-31</END_DATE>
+        <START_REGISTER_DATE>1999</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>88</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>9300058</CODE>
+        <HIBRID_NAME>G?nc? 2</HIBRID_NAME>
+        <PATENT_NUMBER>?00083 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>89</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>9400052</CODE>
+        <HIBRID_NAME>G?nc? 8</HIBRID_NAME>
+        <PATENT_NUMBER>?00084 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>90</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>200069</CODE>
+        <HIBRID_NAME>G?nc? 80</HIBRID_NAME>
+        <PATENT_NUMBER>? 00099 </PATENT_NUMBER>
+        <START_DATE>2006-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2007</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>91</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>500097</CODE>
+        <HIBRID_NAME>G?nc? 110</HIBRID_NAME>
+        <PATENT_NUMBER>?00107 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>92</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>500089</CODE>
+        <HIBRID_NAME>G?nc? 103</HIBRID_NAME>
+        <PATENT_NUMBER>? 00122 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>93</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>900079</CODE>
+        <HIBRID_NAME>Qaraba? 11</HIBRID_NAME>
+        <PATENT_NUMBER>? 00156 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>AMEA, Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>94</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>900060</CODE>
+        <HIBRID_NAME>Z?f?r</HIBRID_NAME>
+        <PATENT_NUMBER>? 00174 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>AMEA, Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>95</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>1000136</CODE>
+        <HIBRID_NAME>G?nc? 114</HIBRID_NAME>
+        <PATENT_NUMBER>? 00175 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Pamb?qç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>96</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>1100049</CODE>
+        <HIBRID_NAME>B?r?k?t </HIBRID_NAME>
+        <PATENT_NUMBER>? 00186 </PATENT_NUMBER>
+        <START_DATE>2015-04-17</START_DATE>
+        <PATENT_OWNER> AMEA, Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2035-12-31</END_DATE>
+        <START_REGISTER_DATE>2015</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>97</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>1200038</CODE>
+        <HIBRID_NAME>?l?kb?ri</HIBRID_NAME>
+        <PATENT_NUMBER>? 00197 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>AMEA, Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>98</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>1100114</CODE>
+        <HIBRID_NAME>G?nc? 160</HIBRID_NAME>
+        <PATENT_NUMBER>? 00198 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Bitki Mühafiz?si v? Texniki Bitkil?r ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>99</ID>
+        <NAME>Texniki bitkil?r Pamb?q - Cossypium L. (Gossypium hirsutum L.)</NAME>
+        <CODE>1400229</CODE>
+        <HIBRID_NAME>Bayraqdar</HIBRID_NAME>
+        <PATENT_NUMBER>? 00216 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>AMEA, Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>100</ID>
+        <NAME>Kökümeyv?li bitkil?r Kartof - Solanum tuberosum L.</NAME>
+        <CODE>8504300</CODE>
+        <HIBRID_NAME>?miri 600</HIBRID_NAME>
+        <PATENT_NUMBER>?00037 </PATENT_NUMBER>
+        <START_DATE>1996-02-29</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>1997</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>101</ID>
+        <NAME>Kökümeyv?li bitkil?r Kartof - Solanum tuberosum L.</NAME>
+        <CODE>9700111</CODE>
+        <HIBRID_NAME>Telman</HIBRID_NAME>
+        <PATENT_NUMBER>?108 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>102</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>8901910</CODE>
+        <HIBRID_NAME>Elim</HIBRID_NAME>
+        <PATENT_NUMBER>?2 </PATENT_NUMBER>
+        <START_DATE>1992-03-05</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2013-12-31</END_DATE>
+        <START_REGISTER_DATE>1993</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>103</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>8901899</CODE>
+        <HIBRID_NAME>?lkin </HIBRID_NAME>
+        <PATENT_NUMBER>?00003 </PATENT_NUMBER>
+        <START_DATE>1992-03-05</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2013-12-31</END_DATE>
+        <START_REGISTER_DATE>1993</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>104</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>9203117</CODE>
+        <HIBRID_NAME>V?t?n I</HIBRID_NAME>
+        <PATENT_NUMBER>?00028 </PATENT_NUMBER>
+        <START_DATE>1995-02-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu, Qusarçay ZTS</PATENT_OWNER>
+        <END_DATE>2016-12-31</END_DATE>
+        <START_REGISTER_DATE>1996</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>105</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>9500065</CODE>
+        <HIBRID_NAME>Leyla</HIBRID_NAME>
+        <PATENT_NUMBER>?00044 </PATENT_NUMBER>
+        <START_DATE>1998-03-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2019-12-31</END_DATE>
+        <START_REGISTER_DATE>1999</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>106</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>9400146</CODE>
+        <HIBRID_NAME>Elnur</HIBRID_NAME>
+        <PATENT_NUMBER>?00052 </PATENT_NUMBER>
+        <START_DATE>1999-03-23</START_DATE>
+        <PATENT_OWNER>Az?rbaycan K?nd T?s?rrüfat? Akademiyas? </PATENT_OWNER>
+        <END_DATE>2020-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>107</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>9700064</CODE>
+        <HIBRID_NAME>??lal?</HIBRID_NAME>
+        <PATENT_NUMBER>?00068 </PATENT_NUMBER>
+        <START_DATE>2001-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2021-12-31</END_DATE>
+        <START_REGISTER_DATE>2001</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>108</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>9700072</CODE>
+        <HIBRID_NAME>Z?rrabi</HIBRID_NAME>
+        <PATENT_NUMBER>?00069 </PATENT_NUMBER>
+        <START_DATE>2001-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitut</PATENT_OWNER>
+        <END_DATE>2022-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>109</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>9800182</CODE>
+        <HIBRID_NAME>?lyas</HIBRID_NAME>
+        <PATENT_NUMBER>?00089 </PATENT_NUMBER>
+        <START_DATE>2004-03-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2025-12-31</END_DATE>
+        <START_REGISTER_DATE>2005</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>110</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>200107</CODE>
+        <HIBRID_NAME>Nuru </HIBRID_NAME>
+        <PATENT_NUMBER>?00123 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>111</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>400025</CODE>
+        <HIBRID_NAME>??k?r</HIBRID_NAME>
+        <PATENT_NUMBER>?00124 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>112</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>600091</CODE>
+        <HIBRID_NAME>Yubiley-60</HIBRID_NAME>
+        <PATENT_NUMBER>?00132 </PATENT_NUMBER>
+        <START_DATE>2010-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2030-12-31</END_DATE>
+        <START_REGISTER_DATE>2010</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>113</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>800060</CODE>
+        <HIBRID_NAME>X?z?r</HIBRID_NAME>
+        <PATENT_NUMBER>?00145 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>114</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>1100270</CODE>
+        <HIBRID_NAME>Z?f?r</HIBRID_NAME>
+        <PATENT_NUMBER>?00176 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>115</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>1250311</CODE>
+        <HIBRID_NAME>Alsu</HIBRID_NAME>
+        <PATENT_NUMBER>?00177 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>116</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>1400109</CODE>
+        <HIBRID_NAME>Az?rbaycan 94</HIBRID_NAME>
+        <PATENT_NUMBER>? 00217 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>117</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor aç?q sah? üçün, cinsin ad? -Lycopersicum esculentum Mill.</NAME>
+        <CODE>1400116</CODE>
+        <HIBRID_NAME>Mirvar?</HIBRID_NAME>
+        <PATENT_NUMBER>? 00218 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>118</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor, örtülü sah? üçün, cinsin ad? - Lycopersicum esculentum Mill.. </NAME>
+        <CODE>9102434</CODE>
+        <HIBRID_NAME>B?növ??</HIBRID_NAME>
+        <PATENT_NUMBER>?00015 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>119</ID>
+        <NAME>T?r?v?z bitkil?ri Pomidor, örtülü sah? üçün, cinsin ad? - Lycopersicum esculentum Mill.. </NAME>
+        <CODE>9800220</CODE>
+        <HIBRID_NAME>?ahin</HIBRID_NAME>
+        <PATENT_NUMBER>?00067 </PATENT_NUMBER>
+        <START_DATE>2007-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2022-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>120</ID>
+        <NAME>T?r?v?z bitkil?ri Bad?mcan - Solanium melongena L. </NAME>
+        <CODE>9500073</CODE>
+        <HIBRID_NAME>G?nc?</HIBRID_NAME>
+        <PATENT_NUMBER>?00053 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2020-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>121</ID>
+        <NAME>T?r?v?z bitkil?ri Bad?mcan - Solanium melongena L. </NAME>
+        <CODE>9700080</CODE>
+        <HIBRID_NAME>Yax??la?d?r?lm?? Büllur</HIBRID_NAME>
+        <PATENT_NUMBER>?00101 </PATENT_NUMBER>
+        <START_DATE>2006-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2007</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>122</ID>
+        <NAME>T?r?v?z bitkil?ri Bad?mcan - Solanium melongena L. </NAME>
+        <CODE>400033</CODE>
+        <HIBRID_NAME>M?h?rr?m </HIBRID_NAME>
+        <PATENT_NUMBER>?00109 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>123</ID>
+        <NAME>T?r?v?z bitkil?ri Bad?mcan - Solanium melongena L. </NAME>
+        <CODE>800074</CODE>
+        <HIBRID_NAME>Türkan</HIBRID_NAME>
+        <PATENT_NUMBER>?000146 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>124</ID>
+        <NAME>T?r?v?z bitkil?ri Bad?mcan - Solanium melongena L. </NAME>
+        <CODE>1100289</CODE>
+        <HIBRID_NAME>F?dai</HIBRID_NAME>
+        <PATENT_NUMBER>?00178 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>125</ID>
+        <NAME>T?r?v?z bitkil?ri ?irin bib?r - Capsicum annium var. grossum (L.) Sendtn.</NAME>
+        <CODE>9002251</CODE>
+        <HIBRID_NAME>Murad</HIBRID_NAME>
+        <PATENT_NUMBER>?00010 </PATENT_NUMBER>
+        <START_DATE>1993-02-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>1993</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>126</ID>
+        <NAME>T?r?v?z bitkil?ri ?irin bib?r - Capsicum annium var. grossum (L.) Sendtn.</NAME>
+        <CODE>9500081</CODE>
+        <HIBRID_NAME>??fa</HIBRID_NAME>
+        <PATENT_NUMBER>?00049 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik institutu</PATENT_OWNER>
+        <END_DATE>2020-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>127</ID>
+        <NAME>T?r?v?z bitkil?ri ?irin bib?r - Capsicum annium var. grossum (L.) Sendtn.</NAME>
+        <CODE>9800191</CODE>
+        <HIBRID_NAME>Yadigar</HIBRID_NAME>
+        <PATENT_NUMBER>?00070 </PATENT_NUMBER>
+        <START_DATE>2001-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2022-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>128</ID>
+        <NAME>T?r?v?z bitkil?ri ?irin bib?r - Capsicum annium var. grossum (L.) Sendtn.</NAME>
+        <CODE>400041</CODE>
+        <HIBRID_NAME>Zümrüd</HIBRID_NAME>
+        <PATENT_NUMBER>?00110 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>129</ID>
+        <NAME>T?r?v?z bitkil?ri ?irin bib?r - Capsicum annium var. grossum (L.) Sendtn.</NAME>
+        <CODE>1400070</CODE>
+        <HIBRID_NAME>Humay</HIBRID_NAME>
+        <PATENT_NUMBER>? 00199 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu </PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>130</ID>
+        <NAME>T?r?v?z bitkil?ri ?irin bib?r - Capsicum annium var. grossum (L.) Sendtn.</NAME>
+        <CODE>140061</CODE>
+        <HIBRID_NAME>Töhf?</HIBRID_NAME>
+        <PATENT_NUMBER>? 00219 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycanT?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>131</ID>
+        <NAME>T?r?v?z bitkil?ri Ac? bib?r ?Capsicum annuum var. Fasciculatum (Sturtev.) ?rish.</NAME>
+        <CODE>1400134</CODE>
+        <HIBRID_NAME>Odlu</HIBRID_NAME>
+        <PATENT_NUMBER>? 00220 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>AMEA, Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>132</ID>
+        <NAME>T?r?v?z bitkil?ri Ac? bib?r ?Capsicum annuum var. Fasciculatum (Sturtev.) ?rish.</NAME>
+        <CODE>1400401</CODE>
+        <HIBRID_NAME>Ulduz</HIBRID_NAME>
+        <PATENT_NUMBER>? 00221 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>133</ID>
+        <NAME>T?r?v?z bitkil?ri Ac? bib?r ?Capsicum annuum var. Fasciculatum (Sturtev.) ?rish.</NAME>
+        <CODE>1400398</CODE>
+        <HIBRID_NAME>??f?q</HIBRID_NAME>
+        <PATENT_NUMBER>? 00222 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>134</ID>
+        <NAME>T?r?v?z bitkil?ri Xiyar sortlar?, aç?q sah? üçün - Cucumis sativus L. </NAME>
+        <CODE>9300031</CODE>
+        <HIBRID_NAME>Az?ri</HIBRID_NAME>
+        <PATENT_NUMBER>?00039 </PATENT_NUMBER>
+        <START_DATE>1997-05-28</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2018-12-31</END_DATE>
+        <START_REGISTER_DATE>1998</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>135</ID>
+        <NAME>T?r?v?z bitkil?ri Xiyar sortlar?, örtülü sah? üçün - Cucumis sativus L.</NAME>
+        <CODE>1400053</CODE>
+        <HIBRID_NAME>Bahar</HIBRID_NAME>
+        <PATENT_NUMBER>? 00200 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu </PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>136</ID>
+        <NAME>T?r?v?z bitkil?ri A?ba? k?l?m (yazl?q) sortlar?, örtülü sah? üçün</NAME>
+        <CODE>1400126</CODE>
+        <HIBRID_NAME>Jal?</HIBRID_NAME>
+        <PATENT_NUMBER>? 00201 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu </PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>137</ID>
+        <NAME>T?r?v?z bitkil?ri Ba? so?an - Allium cepa L.</NAME>
+        <CODE>9700099</CODE>
+        <HIBRID_NAME>Sabir</HIBRID_NAME>
+        <PATENT_NUMBER>?00085 </PATENT_NUMBER>
+        <START_DATE>2002-03-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2023-12-31</END_DATE>
+        <START_REGISTER_DATE>2003</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>138</ID>
+        <NAME>T?r?v?z bitkil?ri Ba? so?an - Allium cepa L.</NAME>
+        <CODE>1100297</CODE>
+        <HIBRID_NAME>Yax??la?d?r?lm?? Yerli Hövsan</HIBRID_NAME>
+        <PATENT_NUMBER>?00179 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>139</ID>
+        <NAME>T?r?v?z bitkil?ri Ba? so?an - Allium cepa L.</NAME>
+        <CODE>1400045</CODE>
+        <HIBRID_NAME>Aydan</HIBRID_NAME>
+        <PATENT_NUMBER>? 00223 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>140</ID>
+        <NAME>T?r?v?z bitkil?ri Ba? so?an - Allium cepa L.</NAME>
+        <CODE>1400410</CODE>
+        <HIBRID_NAME>Aytac </HIBRID_NAME>
+        <PATENT_NUMBER>? 00224 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>141</ID>
+        <NAME>T?r?v?z bitkil?ri Sar?msaq -Allium sativum L.</NAME>
+        <CODE>9700102</CODE>
+        <HIBRID_NAME>Qusarçay</HIBRID_NAME>
+        <PATENT_NUMBER>?00093 </PATENT_NUMBER>
+        <START_DATE>2005-04-14</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu, Qusarçay ZTS</PATENT_OWNER>
+        <END_DATE>2026-12-31</END_DATE>
+        <START_REGISTER_DATE>2006</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>142</ID>
+        <NAME>T?r?v?z bitkil?ri Sar?msaq -Allium sativum L.</NAME>
+        <CODE>1100300</CODE>
+        <HIBRID_NAME>Elçin </HIBRID_NAME>
+        <PATENT_NUMBER>?00187 </PATENT_NUMBER>
+        <START_DATE>2015-04-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2035-12-31</END_DATE>
+        <START_REGISTER_DATE>2015</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>143</ID>
+        <NAME>Paxlal?-T?r?v?z bitkil?ri T?r?v?z lobyas? - Phaseolus vulgaris L. </NAME>
+        <CODE>9300023</CODE>
+        <HIBRID_NAME>Zülal</HIBRID_NAME>
+        <PATENT_NUMBER>?00016 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik institutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>144</ID>
+        <NAME>Paxlal?-T?r?v?z bitkil?ri T?r?v?z lobyas? - Phaseolus vulgaris L. </NAME>
+        <CODE>600105</CODE>
+        <HIBRID_NAME>?sa</HIBRID_NAME>
+        <PATENT_NUMBER>?00126 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>145</ID>
+        <NAME>Paxlal?-T?r?v?z bitkil?ri T?r?v?z lobyas? - Phaseolus vulgaris L. </NAME>
+        <CODE>1100319</CODE>
+        <HIBRID_NAME>B?yaz</HIBRID_NAME>
+        <PATENT_NUMBER>?00180 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>146</ID>
+        <NAME>Paxlal?-T?r?v?z bitkil?ri T?r?v?z lobyas? - Phaseolus vulgaris L. </NAME>
+        <CODE>1400608</CODE>
+        <HIBRID_NAME>?sa 12</HIBRID_NAME>
+        <PATENT_NUMBER>? 00202 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu </PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>147</ID>
+        <NAME>Paxlal?-T?r?v?z bitkil?ri T?r?v?z lobyas? - Phaseolus vulgaris L. </NAME>
+        <CODE>1400096</CODE>
+        <HIBRID_NAME>Aylin</HIBRID_NAME>
+        <PATENT_NUMBER>? 00225 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan T?r?v?zçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>148</ID>
+        <NAME>Paxlal?-T?r?v?z bitkil?ri T?r?v?z noxudu - Pisum sativum subsp. Sativum</NAME>
+        <CODE>9400138</CODE>
+        <HIBRID_NAME>Fidan</HIBRID_NAME>
+        <PATENT_NUMBER> ?00017 </PATENT_NUMBER>
+        <START_DATE>1994-12-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2015-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>149</ID>
+        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>
+        <CODE>8700141</CODE>
+        <HIBRID_NAME>T?rt?r</HIBRID_NAME>
+        <PATENT_NUMBER>?00001 </PATENT_NUMBER>
+        <START_DATE>1991-03-05</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2012-12-31</END_DATE>
+        <START_REGISTER_DATE>1992</START_REGISTER_DATE>
+    </SEED>
+
+<!--    <SEED>-->
+<!--        <ID>150</ID>-->
+<!--        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>-->
+<!--        <CODE>8800162</CODE>-->
+<!--        <HIBRID_NAME>Vüqar</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00007 </PATENT_NUMBER>-->
+<!--        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>-->
+<!--        <END_DATE>2014-12-31</END_DATE>-->
+<!--        <START_REGISTER_DATE>1994</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+    <SEED>
+        <ID>151</ID>
+        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>
+        <CODE>9100571</CODE>
+        <HIBRID_NAME>?ir-Aslan 23</HIBRID_NAME>
+        <PATENT_NUMBER>?00024 </PATENT_NUMBER>
+        <START_DATE>1995-02-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2016-12-31</END_DATE>
+        <START_REGISTER_DATE>1996</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>152</ID>
+        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>
+        <CODE>8704287</CODE>
+        <HIBRID_NAME>K?hraba</HIBRID_NAME>
+        <PATENT_NUMBER>?00014 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>AMEA-n?n Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2024-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>153</ID>
+        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>
+        <CODE>9500031</CODE>
+        <HIBRID_NAME>B?r?k?tli 95</HIBRID_NAME>
+        <PATENT_NUMBER>?00046 </PATENT_NUMBER>
+        <START_DATE>1998-03-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2019-12-31</END_DATE>
+        <START_REGISTER_DATE>1999</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>154</ID>
+        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>
+        <CODE>9400028</CODE>
+        <HIBRID_NAME>Turan</HIBRID_NAME>
+        <PATENT_NUMBER>?00047 </PATENT_NUMBER>
+        <START_DATE>1998-03-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2019-12-31</END_DATE>
+        <START_REGISTER_DATE>1999</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>155</ID>
+        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>
+        <CODE>9500022</CODE>
+        <HIBRID_NAME>?linc?-84</HIBRID_NAME>
+        <PATENT_NUMBER>?00048 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2019-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>156</ID>
+        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>
+        <CODE>43</CODE>
+        <HIBRID_NAME>Qaraba?</HIBRID_NAME>
+        <PATENT_NUMBER>?00102 </PATENT_NUMBER>
+        <START_DATE>2007-04-12</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2018-12-31</END_DATE>
+        <START_REGISTER_DATE>2008</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>157</ID>
+        <NAME> D?nli bitkil?r B?rk bu?da - Triticum durum Desf. </NAME>
+        <CODE>1000152</CODE>
+        <HIBRID_NAME>Saray</HIBRID_NAME>
+        <PATENT_NUMBER>?00168 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>AMEA-n?n Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>158</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>9000534</CODE>
+        <HIBRID_NAME>Qaraba? 21</HIBRID_NAME>
+        <PATENT_NUMBER>?00032 </PATENT_NUMBER>
+        <START_DATE>1996-02-29</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2017-12-31</END_DATE>
+        <START_REGISTER_DATE>1997</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>159</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>9600027</CODE>
+        <HIBRID_NAME>C?lilabad 19</HIBRID_NAME>
+        <PATENT_NUMBER>?00060 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2021-12-31</END_DATE>
+        <START_REGISTER_DATE>2001</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>160</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>9600019</CODE>
+        <HIBRID_NAME>Qaraba? 22</HIBRID_NAME>
+        <PATENT_NUMBER>?00065 </PATENT_NUMBER>
+        <START_DATE>2001-03-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2022-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>161</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>200026</CODE>
+        <HIBRID_NAME>Baharl?</HIBRID_NAME>
+        <PATENT_NUMBER>?00114 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>162</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>700037</CODE>
+        <HIBRID_NAME>Qaraba? 33</HIBRID_NAME>
+        <PATENT_NUMBER>?00153 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>163</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>800031</CODE>
+        <HIBRID_NAME>Qüdr?tli 48</HIBRID_NAME>
+        <PATENT_NUMBER>?00154 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>164</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>1000047</CODE>
+        <HIBRID_NAME>Q?lç?ql? 85</HIBRID_NAME>
+        <PATENT_NUMBER>?00169 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>AMEA Naxç?van Bioresurslar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>165</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>1000055</CODE>
+        <HIBRID_NAME>D?yan?tli</HIBRID_NAME>
+        <PATENT_NUMBER>? 00192 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ?kinçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>166</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q arpa - Hordeum vulgare L.</NAME>
+        <CODE>1300555</CODE>
+        <HIBRID_NAME>Sadiq </HIBRID_NAME>
+        <PATENT_NUMBER>? 00212 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>?kinçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>167</ID>
+        <NAME> D?nli bitkil?r Qar??dal? -Zea mays L.</NAME>
+        <CODE>8502676</CODE>
+        <HIBRID_NAME>Zaqatala 514</HIBRID_NAME>
+        <PATENT_NUMBER>?00038 </PATENT_NUMBER>
+        <START_DATE>1997-03-28</START_DATE>
+        <PATENT_OWNER>E? Birliyi Zaqatala ZTS</PATENT_OWNER>
+        <END_DATE>2018-12-31</END_DATE>
+        <START_REGISTER_DATE>1998</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>168</ID>
+        <NAME> D?nli bitkil?r Qar??dal? -Zea mays L.</NAME>
+        <CODE>9600035</CODE>
+        <HIBRID_NAME>Zaqatala 68</HIBRID_NAME>
+        <PATENT_NUMBER>?00061 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>E? Birliyi Zaqatala ZTS</PATENT_OWNER>
+        <END_DATE>2021-12-31</END_DATE>
+        <START_REGISTER_DATE>2001</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>169</ID>
+        <NAME> D?nli bitkil?r Qar??dal? -Zea mays L.</NAME>
+        <CODE>100048</CODE>
+        <HIBRID_NAME>K?p?z</HIBRID_NAME>
+        <PATENT_NUMBER>?00088 </PATENT_NUMBER>
+        <START_DATE>2000-03-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan K?nd T?s?rrüfat? Akademiyas?</PATENT_OWNER>
+        <END_DATE>2025-12-31</END_DATE>
+        <START_REGISTER_DATE>2005</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>170</ID>
+        <NAME> D?nli bitkil?r Qar??dal? -Zea mays L.</NAME>
+        <CODE>500011</CODE>
+        <HIBRID_NAME>Zaqatala 420</HIBRID_NAME>
+        <PATENT_NUMBER>?00115 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu Zaqatala ZTS</PATENT_OWNER>
+        <END_DATE>2029-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>171</ID>
+        <NAME> D?nli bitkil?r Qar??dal? -Zea mays L.</NAME>
+        <CODE>1000063</CODE>
+        <HIBRID_NAME>ADAU-80</HIBRID_NAME>
+        <PATENT_NUMBER>?00138 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan Dövl?t Aqrar Universiteti</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>172</ID>
+        <NAME> D?nli bitkil?r Qar??dal? -Zea mays L.</NAME>
+        <CODE>1300067</CODE>
+        <HIBRID_NAME>G?nc?</HIBRID_NAME>
+        <PATENT_NUMBER>?00172 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan Dövl?t Aqrar Universiteti</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>173</ID>
+        <NAME> D?nli bitkil?r Qar??dal? -Zea mays L.</NAME>
+        <CODE>1206010</CODE>
+        <HIBRID_NAME>Qürur</HIBRID_NAME>
+        <PATENT_NUMBER>? 00193 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ?kinçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>174</ID>
+        <NAME> D?nli bitkil?r Qar??dal? -Zea mays L.</NAME>
+        <CODE>1200780</CODE>
+        <HIBRID_NAME>M?hsuldar</HIBRID_NAME>
+        <PATENT_NUMBER>? 00194 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan Dövl?t Aqrar Universiteti</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+<!--    <SEED>-->
+<!--        <ID>175</ID>-->
+<!--        <NAME> D?nli bitkil?r Pay?zl?q Tritikale</NAME>-->
+<!--        <HIBRID_NAME>Samur</HIBRID_NAME>-->
+<!--        <PATENT_NUMBER>?00033 </PATENT_NUMBER>-->
+<!--        <START_DATE>1996-02-29</START_DATE>-->
+<!--        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>-->
+<!--        <END_DATE>2036-12-31</END_DATE>-->
+<!--        <START_REGISTER_DATE>1996</START_REGISTER_DATE>-->
+<!--    </SEED>-->
+    <SEED>
+        <ID>176</ID>
+        <NAME> D?nli bitkil?r Pay?zl?q Tritikale</NAME>
+        <CODE>1300059</CODE>
+        <HIBRID_NAME>Qism?t</HIBRID_NAME>
+        <PATENT_NUMBER>? 00213 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan Dövl?t Aqrar Universiteti</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>177</ID>
+        <NAME>D?nli-Paxlal? bitkil?r Lobya - Phaseolus vulgaris L.</NAME>
+        <CODE>9300015</CODE>
+        <HIBRID_NAME>Sevinc</HIBRID_NAME>
+        <PATENT_NUMBER>?00023 </PATENT_NUMBER>
+        <START_DATE>1995-02-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET T?r?v?zçilik institutu</PATENT_OWNER>
+        <END_DATE>2016-12-31</END_DATE>
+        <START_REGISTER_DATE>1996</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>178</ID>
+        <NAME>D?nli-Paxlal? bitkil?r Lobya - Phaseolus vulgaris L.</NAME>
+        <CODE>9500057</CODE>
+        <HIBRID_NAME>AzN??Z 352</HIBRID_NAME>
+        <PATENT_NUMBER> ?00051 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2030-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>179</ID>
+        <NAME>D?nli-Paxlal? bitkil?r M?rcim?k - Lens esculenta Moench. </NAME>
+        <CODE>500020</CODE>
+        <HIBRID_NAME>Arzu</HIBRID_NAME>
+        <PATENT_NUMBER>?00116 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?kinçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>180</ID>
+        <NAME>D?nli-Paxlal? bitkil?r M?rcim?k - Lens esculenta Moench. </NAME>
+        <CODE>1300297</CODE>
+        <HIBRID_NAME>Z?f?r</HIBRID_NAME>
+        <PATENT_NUMBER>? 00195 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ?kinçilik ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>181</ID>
+        <NAME>D?nli-Paxlal? bitkil?r M?rcim?k - Lens esculenta Moench. </NAME>
+        <CODE>1400304</CODE>
+        <HIBRID_NAME>Jasmin</HIBRID_NAME>
+        <PATENT_NUMBER>? 00214 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER> AMEA-n?n Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2037-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>182</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>1000152</CODE>
+        <HIBRID_NAME>B?xtiyar xHessa2/1</HIBRID_NAME>
+        <PATENT_NUMBER>?00159 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>183</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>1000187</CODE>
+        <HIBRID_NAME>Göz?l x Xall?</HIBRID_NAME>
+        <PATENT_NUMBER>?00160 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Etiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>184</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>1000187</CODE>
+        <HIBRID_NAME>Xall? xGöz?l </HIBRID_NAME>
+        <PATENT_NUMBER>?00161 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>185</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>1000195</CODE>
+        <HIBRID_NAME>B?xtiyar</HIBRID_NAME>
+        <PATENT_NUMBER>?00162 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET ?p?kçilik institutu Az?rbaycan </PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>186</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>1000209</CODE>
+        <HIBRID_NAME>Xall?</HIBRID_NAME>
+        <PATENT_NUMBER>?00163 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu </PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>187</ID>
+        <NAME>Tut ip?kqurdu -Bombux mori L.</NAME>
+        <CODE>1000217</CODE>
+        <HIBRID_NAME>Göz?l </HIBRID_NAME>
+        <PATENT_NUMBER>?00164 </PATENT_NUMBER>
+        <START_DATE>2013-06-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu </PATENT_OWNER>
+        <END_DATE>2033-12-31</END_DATE>
+        <START_REGISTER_DATE>2013</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>188</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>7907532</CODE>
+        <HIBRID_NAME>Quba reneti</HIBRID_NAME>
+        <PATENT_NUMBER>?00008 </PATENT_NUMBER>
+        <START_DATE>1993-02-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r institutu</PATENT_OWNER>
+        <END_DATE>2020-12-31</END_DATE>
+        <START_REGISTER_DATE>1995</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>189</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>8403988</CODE>
+        <HIBRID_NAME>T?rav?tli</HIBRID_NAME>
+        <PATENT_NUMBER>?00036 </PATENT_NUMBER>
+        <START_DATE>1996-02-29</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2021-12-31</END_DATE>
+        <START_REGISTER_DATE>1996</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>190</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>8403961</CODE>
+        <HIBRID_NAME>Arzu</HIBRID_NAME>
+        <PATENT_NUMBER>?00055 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2025-03-23</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>191</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>7907613</CODE>
+        <HIBRID_NAME>S?m?d Vur?un</HIBRID_NAME>
+        <PATENT_NUMBER>?00056 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2025-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>192</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>7907540</CODE>
+        <HIBRID_NAME>Quba ?afran?</HIBRID_NAME>
+        <PATENT_NUMBER>?00057 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2025-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>193</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>7507524</CODE>
+        <HIBRID_NAME>?ah Da?</HIBRID_NAME>
+        <PATENT_NUMBER>?00058 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2025-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>194</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>800147</CODE>
+        <HIBRID_NAME>Q??l?q Quba</HIBRID_NAME>
+        <PATENT_NUMBER>?00127 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>195</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>800139</CODE>
+        <HIBRID_NAME>Pay?zl?q Quba</HIBRID_NAME>
+        <PATENT_NUMBER> ?00128 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>196</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>850160</CODE>
+        <HIBRID_NAME>Nikoter</HIBRID_NAME>
+        <PATENT_NUMBER>?00134 </PATENT_NUMBER>
+        <START_DATE>2010-04-13</START_DATE>
+        <PATENT_OWNER>Belçika ?Better 3 Frut N.V.?</PATENT_OWNER>
+        <END_DATE>2035-12-31</END_DATE>
+        <START_REGISTER_DATE>2010</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>197</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>850152</CODE>
+        <HIBRID_NAME>Nikoqreen</HIBRID_NAME>
+        <PATENT_NUMBER>?00135 </PATENT_NUMBER>
+        <START_DATE>2005-04-13</START_DATE>
+        <PATENT_OWNER>Belçika ?Better 3 Frut N.V.?</PATENT_OWNER>
+        <END_DATE>2035-12-31</END_DATE>
+        <START_REGISTER_DATE>2010</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>198</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>402145</CODE>
+        <HIBRID_NAME>Elvin</HIBRID_NAME>
+        <PATENT_NUMBER>?00188 </PATENT_NUMBER>
+        <START_DATE>2015-04-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2040-12-31</END_DATE>
+        <START_REGISTER_DATE>2015</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>199</ID>
+        <NAME>Meyv? Bitkil?ri Alma - Malus domestica Borkh.</NAME>
+        <CODE>402137</CODE>
+        <HIBRID_NAME>Sevinc</HIBRID_NAME>
+        <PATENT_NUMBER>?00189 </PATENT_NUMBER>
+        <START_DATE>2015-04-17</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2040-12-31</END_DATE>
+        <START_REGISTER_DATE>2015</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>200</ID>
+        <NAME>Meyv? Bitkil?ri Nar - Punica granatum L</NAME>
+        <CODE>8306290</CODE>
+        <HIBRID_NAME>?ri Gil?</HIBRID_NAME>
+        <PATENT_NUMBER>?00009 </PATENT_NUMBER>
+        <START_DATE>1993-02-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan EA Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2017-12-31</END_DATE>
+        <START_REGISTER_DATE>1993</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>201</ID>
+        <NAME>Meyv? Bitkil?ri Nar - Punica granatum L</NAME>
+        <CODE>8904758</CODE>
+        <HIBRID_NAME>Qara gil?</HIBRID_NAME>
+        <PATENT_NUMBER>?00072 </PATENT_NUMBER>
+        <START_DATE>2001-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan EA Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>202</ID>
+        <NAME>Meyv? Bitkil?ri ?nnab - Zizyphus Mill. (Zizyphus Jujuba Mill.)</NAME>
+        <CODE>8306311</CODE>
+        <HIBRID_NAME>Xurmay?</HIBRID_NAME>
+        <PATENT_NUMBER>?00006 </PATENT_NUMBER>
+        <START_DATE>1992-03-05</START_DATE>
+        <PATENT_OWNER>Az?rbaycan EA Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2017-12-31</END_DATE>
+        <START_REGISTER_DATE>1993</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>203</ID>
+        <NAME>Meyv? Bitkil?ri ?nnab - Zizyphus Mill. (Zizyphus Jujuba Mill.)</NAME>
+        <CODE>7606540</CODE>
+        <HIBRID_NAME>X?z?ri</HIBRID_NAME>
+        <PATENT_NUMBER>?00054 </PATENT_NUMBER>
+        <START_DATE>1999-03-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu, Ab?eron T?crüb? Stansiyas?</PATENT_OWNER>
+        <END_DATE>2025-12-31</END_DATE>
+        <START_REGISTER_DATE>2000</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>204</ID>
+        <NAME>Meyv? Bitkil?ri ?nnab - Zizyphus Mill. (Zizyphus Jujuba Mill.)</NAME>
+        <CODE>7606508</CODE>
+        <HIBRID_NAME>Az?ri</HIBRID_NAME>
+        <PATENT_NUMBER>?00073 </PATENT_NUMBER>
+        <START_DATE>2001-03-23</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu, Ab?eron Tcrüb? Stansiyas?</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>205</ID>
+        <NAME>Meyv? Bitkil?ri Zo?al - Cornus mas L.</NAME>
+        <CODE>8806080</CODE>
+        <HIBRID_NAME>Armudu Zo?al</HIBRID_NAME>
+        <PATENT_NUMBER>?00091 </PATENT_NUMBER>
+        <START_DATE>2004-03-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2027-12-31</END_DATE>
+        <START_REGISTER_DATE>2002</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>206</ID>
+        <NAME>Meyv? Bitkil?ri Zo?al - Cornus mas L.</NAME>
+        <CODE>8806098</CODE>
+        <HIBRID_NAME>A? zo?al</HIBRID_NAME>
+        <PATENT_NUMBER>?00090 </PATENT_NUMBER>
+        <START_DATE>2004-03-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu</PATENT_OWNER>
+        <END_DATE>2030-12-31</END_DATE>
+        <START_REGISTER_DATE>2005</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>207</ID>
+        <NAME>Meyv? Bitkil?ri ?ncir</NAME>
+        <CODE>1400193</CODE>
+        <HIBRID_NAME>??lal?</HIBRID_NAME>
+        <PATENT_NUMBER>? 00203 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu </PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>208</ID>
+        <NAME>Meyv? Bitkil?ri ?ncir</NAME>
+        <CODE>1400187</CODE>
+        <HIBRID_NAME>Bol ?ncir</HIBRID_NAME>
+        <PATENT_NUMBER>? 00204 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Genetik Ehtiyatlar ?nstitutu </PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>209</ID>
+        <NAME>Meyv? Bitkil?ri Feyxoa ? Feijoa Berg (Feijoa selloviana Berg).</NAME>
+        <CODE>8506175</CODE>
+        <HIBRID_NAME>L?nk?ran</HIBRID_NAME>
+        <PATENT_NUMBER>?00011 </PATENT_NUMBER>
+        <START_DATE>1993-02-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan EA Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2018-12-31</END_DATE>
+        <START_REGISTER_DATE>1993</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>210</ID>
+        <NAME>Meyv? Bitkil?ri Feyxoa ? Feijoa Berg (Feijoa selloviana Berg).</NAME>
+        <CODE>8506175</CODE>
+        <HIBRID_NAME>M?hsuldar</HIBRID_NAME>
+        <PATENT_NUMBER>?00013 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan EA Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2019-12-31</END_DATE>
+        <START_REGISTER_DATE>1994</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>211</ID>
+        <NAME>Meyv? Bitkil?ri Feyxoa ? Feijoa Berg (Feijoa selloviana Berg).</NAME>
+        <CODE>1100343</CODE>
+        <HIBRID_NAME>?öl?</HIBRID_NAME>
+        <PATENT_NUMBER>?00181 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutunun L?nk?ran Çay filial?</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>212</ID>
+        <NAME>Meyv? Bitkil?ri Feyxoa ? Feijoa Berg (Feijoa selloviana Berg).</NAME>
+        <CODE>8904618</CODE>
+        <HIBRID_NAME>?rimeyv?li</HIBRID_NAME>
+        <PATENT_NUMBER>?00148 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r institutu v? Az?rbaycan MEA-n?n Genetika v? Seleksiya ?nstitutu </PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>213</ID>
+        <NAME>Meyv? Bitkil?ri Feyxoa ? Feijoa Berg (Feijoa selloviana Berg).</NAME>
+        <CODE>8904626</CODE>
+        <HIBRID_NAME>Ayd?n</HIBRID_NAME>
+        <PATENT_NUMBER>?00147 </PATENT_NUMBER>
+        <START_DATE>2011-04-19</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r institutu v? Az?rbaycan MEA-n?n Genetika v? Seleksiya ?nstitutu </PATENT_OWNER>
+        <END_DATE>2036-12-31</END_DATE>
+        <START_REGISTER_DATE>2011</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>214</ID>
+        <NAME>Meyv? Bitkil?ri Feyxoa ? Feijoa Berg (Feijoa selloviana Berg).</NAME>
+        <CODE>1100351</CODE>
+        <HIBRID_NAME>S?rxan</HIBRID_NAME>
+        <PATENT_NUMBER>?00182 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutunun L?nk?ran Çay filial?</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>215</ID>
+        <NAME>Meyv? Bitkil?ri Kivi - Actinidia Lindl. (Actinidia deliciosa A.Chev.)</NAME>
+        <CODE>1100378</CODE>
+        <HIBRID_NAME>??hla</HIBRID_NAME>
+        <PATENT_NUMBER>?00183 </PATENT_NUMBER>
+        <START_DATE>2014-08-15</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutunun L?nk?ran Çay filial?</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2014</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>216</ID>
+        <NAME>Meyv? Bitkil?ri Zeytun ?Olea europaea L.</NAME>
+        <CODE>600164</CODE>
+        <HIBRID_NAME>A?baba</HIBRID_NAME>
+        <PATENT_NUMBER>?00129 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu </PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>217</ID>
+        <NAME>Meyv? Bitkil?ri Zeytun ?Olea europaea L.</NAME>
+        <CODE>600180</CODE>
+        <HIBRID_NAME>El zeytunu</HIBRID_NAME>
+        <PATENT_NUMBER>?00130 </PATENT_NUMBER>
+        <START_DATE>2009-04-03</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Ba?ç?l?q v? Subtropik Bitkil?r ?nstitutu</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>218</ID>
+        <NAME>Çaytikan? ?Hippophae L.</NAME>
+        <CODE>8805863</CODE>
+        <HIBRID_NAME>Tozlayan</HIBRID_NAME>
+        <PATENT_NUMBER>?00012 </PATENT_NUMBER>
+        <START_DATE>1993-02-22</START_DATE>
+        <PATENT_OWNER>Az?rbaycan EA Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2018-12-31</END_DATE>
+        <START_REGISTER_DATE>1993</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>219</ID>
+        <NAME>Çaytikan? ?Hippophae L.</NAME>
+        <CODE>9400168</CODE>
+        <HIBRID_NAME>Z?f?rani</HIBRID_NAME>
+        <PATENT_NUMBER>?00022 </PATENT_NUMBER>
+        <START_DATE>1994-02-24</START_DATE>
+        <PATENT_OWNER>Az?rbaycan EA Genetika v? Seleksiya ?nstitutu</PATENT_OWNER>
+        <END_DATE>2019-12-31</END_DATE>
+        <START_REGISTER_DATE>1994</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>220</ID>
+        <NAME>Üzüm, süfr? sortlar? ? Vitis L. </NAME>
+        <CODE>9600183</CODE>
+        <HIBRID_NAME>Az?ri</HIBRID_NAME>
+        <PATENT_NUMBER>?00094 </PATENT_NUMBER>
+        <START_DATE>2005-04-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Üzümçülük v? ??rabç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2006</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>221</ID>
+        <NAME>Üzüm, süfr? sortlar? ? Vitis L. </NAME>
+        <CODE>500070</CODE>
+        <HIBRID_NAME>Nail</HIBRID_NAME>
+        <PATENT_NUMBER>?00095 11.04.2005</PATENT_NUMBER>
+        <START_DATE>2005-04-11</START_DATE>
+        <PATENT_OWNER>Az?rbaycan K?nd T?s?rrüfat? Akademiyas?</PATENT_OWNER>
+        <END_DATE>2031-12-31</END_DATE>
+        <START_REGISTER_DATE>2006</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>222</ID>
+        <NAME>Üzüm, süfr? sortlar? ? Vitis L. </NAME>
+        <CODE>9900161</CODE>
+        <HIBRID_NAME>Göy-göl</HIBRID_NAME>
+        <PATENT_NUMBER>?00133 </PATENT_NUMBER>
+        <START_DATE>2010-04-13</START_DATE>
+        <PATENT_OWNER>Az?rbaycan ET Üzümçülük v? ??rabç?l?q ?nstitutu</PATENT_OWNER>
+        <END_DATE>2035-12-31</END_DATE>
+        <START_REGISTER_DATE>2010</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>223</ID>
+        <NAME>Üzüm, süfr? sortlar? ? Vitis L. </NAME>
+        <CODE>1300512</CODE>
+        <HIBRID_NAME>B?hr?li</HIBRID_NAME>
+        <PATENT_NUMBER>? 00229 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan Üzümçülük v? ??rabç?l?q ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2042-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>224</ID>
+        <NAME>Üzüm, süfr? sortlar? ? Vitis L. </NAME>
+        <CODE>1300520</CODE>
+        <HIBRID_NAME>K?p?z</HIBRID_NAME>
+        <PATENT_NUMBER>? 00230 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan Üzümçülük v? ??rabç?l?q ET ?nstitutu</PATENT_OWNER>
+        <END_DATE>2042-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>225</ID>
+        <NAME>Q?z?l gül ? Rosa L.</NAME>
+        <CODE>800210</CODE>
+        <HIBRID_NAME> ?srin müqavil?si</HIBRID_NAME>
+        <PATENT_NUMBER>?00111 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA-n?n M?rk?zi N?bat?t ba??</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>226</ID>
+        <NAME>Q?z?l gül ? Rosa L.</NAME>
+        <CODE>800236</CODE>
+        <HIBRID_NAME> Nazp?ri</HIBRID_NAME>
+        <PATENT_NUMBER>?00113 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA-n?n M?rk?zi N?bat?t ba??</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>227</ID>
+        <NAME>Q?z?l gül ? Rosa L.</NAME>
+        <CODE>800228</CODE>
+        <HIBRID_NAME>Sar? g?lin</HIBRID_NAME>
+        <PATENT_NUMBER>?00112 </PATENT_NUMBER>
+        <START_DATE>2008-04-04</START_DATE>
+        <PATENT_OWNER>AMEA-n?n N?bat?t ba??</PATENT_OWNER>
+        <END_DATE>2034-12-31</END_DATE>
+        <START_REGISTER_DATE>2009</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>228</ID>
+        <NAME>X?na</NAME>
+        <CODE>1401286</CODE>
+        <HIBRID_NAME>Orxan</HIBRID_NAME>
+        <PATENT_NUMBER>? 00205 </PATENT_NUMBER>
+        <START_DATE>2016-04-20</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Denderalogiya ?nistitutu</PATENT_OWNER>
+        <END_DATE>2041-12-31</END_DATE>
+        <START_REGISTER_DATE>2016</START_REGISTER_DATE>
+    </SEED>
+    <SEED>
+        <ID>229</ID>
+        <NAME>X?na</NAME>
+        <CODE>1400456</CODE>
+        <HIBRID_NAME>S?rxan</HIBRID_NAME>
+        <PATENT_NUMBER>? 00231 </PATENT_NUMBER>
+        <START_DATE>2017-02-02</START_DATE>
+        <PATENT_OWNER>Az?rbaycan MEA Denderalogiya ?nistutu</PATENT_OWNER>
+        <END_DATE>2042-12-31</END_DATE>
+        <START_REGISTER_DATE>2017</START_REGISTER_DATE>
+    </SEED>
+
+</SEEDS>
