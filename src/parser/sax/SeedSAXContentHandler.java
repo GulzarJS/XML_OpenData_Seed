@@ -8,11 +8,10 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SeedSaxContentHandler extends DefaultHandler {
+public class SeedSAXContentHandler extends DefaultHandler {
 
     private List<Seed> seedList;
     private Seed temp;
@@ -29,12 +28,12 @@ public class SeedSaxContentHandler extends DefaultHandler {
     private int limit;
     private int counter = 0;
 
-    public SeedSaxContentHandler() {
+    public SeedSAXContentHandler() {
         this.seedList = new ArrayList<>();
         this.limit = 0;
     }
 
-    public SeedSaxContentHandler(int limit) {
+    public SeedSAXContentHandler(int limit) {
         this();
         this.limit = limit;
     }
@@ -82,23 +81,23 @@ public class SeedSaxContentHandler extends DefaultHandler {
 //        System.out.println("Data which is read = " + data);
 
         if (isId) {
-            temp.setId(Integer.parseInt(data));
+            temp.setID(Integer.parseInt(data));
         } else if (isName) {
-            temp.setName(data);
+            temp.setNAME(data);
         } else if (isCode) {
-            temp.setCode(Integer.parseInt(data));
+            temp.setCODE(Integer.parseInt(data));
         } else if (isHibridName) {
-            temp.setHibridName(data);
+            temp.setHIBRID_NAME(data);
         } else if (isPatentNumber) {
-            temp.setPatentNumber(data);
+            temp.setPATENT_NUMBER(data);
         } else if (isPatentOwner) {
-            temp.setPatentOwner(data);
+            temp.setPATENT_OWNER(data);
         } else if (isStartDate) {
-            temp.setStartDate(data);
+            temp.setSTART_DATE(data);
         } else if (isEndDate) {
-            temp.setEndDate(data);
+            temp.setEND_DATE(data);
         } else if (isStartRegisterDate) {
-            temp.setStartRegisterDate(data);
+            temp.setSTART_REGISTER_DATE(data);
         }
     }
 

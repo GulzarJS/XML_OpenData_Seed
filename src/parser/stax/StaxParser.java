@@ -17,7 +17,6 @@ import javax.xml.stream.events.StartElement;
 import javax.xml.stream.events.XMLEvent;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.math.BigDecimal;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
@@ -92,23 +91,23 @@ public class StaxParser {
                 } else if (event.getEventType() == XMLStreamConstants.CHARACTERS) {
                     Characters characters = (Characters) event;
                     if (isId) {
-                        temp.setId(Integer.parseInt(characters.getData()));
+                        temp.setID(Integer.parseInt(characters.getData()));
                     } else if (isName) {
-                        temp.setName(characters.getData());
+                        temp.setNAME(characters.getData());
                     } else if (isCode) {
-                        temp.setCode(Integer.parseInt(characters.getData()));
+                        temp.setCODE(Integer.parseInt(characters.getData()));
                     } else if (isHibridName) {
-                        temp.setHibridName(characters.getData());
+                        temp.setHIBRID_NAME(characters.getData());
                     } else if (isPatentNumber) {
-                        temp.setPatentNumber(characters.getData());
+                        temp.setPATENT_NUMBER(characters.getData());
                     } else if (isPatentOwner) {
-                        temp.setPatentOwner(characters.getData());
+                        temp.setPATENT_OWNER(characters.getData());
                     } else if (isStartDate) {
-                        temp.setStartDate(characters.getData());
+                        temp.setSTART_DATE(characters.getData());
                     } else if (isEndDate) {
-                        temp.setEndDate(characters.getData());
+                        temp.setEND_DATE(characters.getData());
                     } else if (isStartRegisterDate) {
-                        temp.setStartRegisterDate(characters.getData());
+                        temp.setSTART_REGISTER_DATE(characters.getData());
                     }
                 } else if (event.getEventType() == XMLStreamConstants.END_ELEMENT) {
                     EndElement element = (EndElement) event;

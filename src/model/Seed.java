@@ -7,86 +7,86 @@ package model;
 
 public class Seed {
 
-    private int id;
-    private String name;
-    private int code;
-    private String hibridName;
-    private String patentNumber;
-    private String patentOwner;
-    private String startDate;
-    private String endDate;
-    private String startRegisterDate;
+    private int ID;
+    private String NAME;
+    private int CODE;
+    private String HIBRID_NAME;
+    private String PATENT_NUMBER;
+    private String PATENT_OWNER;
+    private String START_DATE;
+    private String END_DATE;
+    private String START_REGISTER_DATE;
 
-    public int getId() {
-        return id;
+    public int getID() {
+        return ID;
     }
 
-    public void setId(int id) {
-        this.id = id;
+    public void setID(int ID) {
+        this.ID = ID;
     }
 
-    public String getName() {
-        return name;
+    public String getNAME() {
+        return NAME;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setNAME(String NAME) {
+        this.NAME = NAME;
     }
 
-    public int getCode() {
-        return code;
+    public int getCODE() {
+        return CODE;
     }
 
-    public void setCode(int code) {
-        this.code = code;
+    public void setCODE(int CODE) {
+        this.CODE = CODE;
     }
 
-    public String getHibridName() {
-        return hibridName;
+    public String getHIBRID_NAME() {
+        return HIBRID_NAME;
     }
 
-    public void setHibridName(String hibridName) {
-        this.hibridName = hibridName;
+    public void setHIBRID_NAME(String HIBRID_NAME) {
+        this.HIBRID_NAME = HIBRID_NAME;
     }
 
-    public String getPatentNumber() {
-        return patentNumber;
+    public String getPATENT_NUMBER() {
+        return PATENT_NUMBER;
     }
 
-    public void setPatentNumber(String patentNumber) {
-        this.patentNumber = patentNumber;
+    public void setPATENT_NUMBER(String PATENT_NUMBER) {
+        this.PATENT_NUMBER = PATENT_NUMBER;
     }
 
-    public String getPatentOwner() {
-        return patentOwner;
+    public String getPATENT_OWNER() {
+        return PATENT_OWNER;
     }
 
-    public void setPatentOwner(String patentOwner) {
-        this.patentOwner = patentOwner;
+    public void setPATENT_OWNER(String PATENT_OWNER) {
+        this.PATENT_OWNER = PATENT_OWNER;
     }
 
-    public String getStartDate() {
-        return startDate;
+    public String getSTART_DATE() {
+        return START_DATE;
     }
 
-    public void setStartDate(String startDate) {
-        this.startDate = startDate;
+    public void setSTART_DATE(String START_DATE) {
+        this.START_DATE = START_DATE;
     }
 
-    public String getEndDate() {
-        return endDate;
+    public String getEND_DATE() {
+        return END_DATE;
     }
 
-    public void setEndDate(String endDate) {
-        this.endDate = endDate;
+    public void setEND_DATE(String END_DATE) {
+        this.END_DATE = END_DATE;
     }
 
-    public String getStartRegisterDate() {
-        return startRegisterDate;
+    public String getSTART_REGISTER_DATE() {
+        return START_REGISTER_DATE;
     }
 
-    public void setStartRegisterDate(String startRegisterDate) {
-        this.startRegisterDate = startRegisterDate;
+    public void setSTART_REGISTER_DATE(String START_REGISTER_DATE) {
+        this.START_REGISTER_DATE = START_REGISTER_DATE;
     }
 
     public Seed() {
@@ -96,15 +96,15 @@ public class Seed {
     @Override
     public String toString() {
         return "Seed{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", code=" + code +
-                ", hibridName='" + hibridName + '\'' +
-                ", patentNumber='" + patentNumber + '\'' +
-                ", patentOwner='" + patentOwner + '\'' +
-                ", startDate=" + startDate +
-                ", endDate=" + endDate +
-                ", startRegisterDate='" + startRegisterDate + '\'' +
+                "id=" + ID +
+                ", name='" + NAME + '\'' +
+                ", code=" + CODE +
+                ", hibridName='" + HIBRID_NAME + '\'' +
+                ", patentNumber='" + PATENT_NUMBER + '\'' +
+                ", patentOwner='" + PATENT_OWNER + '\'' +
+                ", startDate=" + START_DATE +
+                ", endDate=" + END_DATE +
+                ", startRegisterDate='" + START_REGISTER_DATE + '\'' +
                 '}';
     }
 }

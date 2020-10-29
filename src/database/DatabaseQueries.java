@@ -8,10 +8,11 @@ import model.Seed;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
-import java.sql.Date;
 import java.sql.SQLException;
 import java.util.List;
 import java.util.ListIterator;
+
+import static java.sql.Date.valueOf;
 
 public class DatabaseQueries {
 
@@ -42,7 +43,7 @@ public class DatabaseQueries {
     // Function for inserting information about seeds => for DOM Parser
     public static void insertSeedSaxStaxParser(List<Seed> seedNodeList) throws SQLException {
 
-        DatabaseQueries.cleanSeedTable();
+
 
         Database database = new Database();
         String sql;
@@ -60,15 +61,15 @@ public class DatabaseQueries {
 
                 database.setPs(database.getConnection().prepareStatement(sql));
 
-                database.getPs().setInt(1,temp.getId());
-                database.getPs().setString(2, temp.getName());
-                database.getPs().setInt(3, temp.getCode());
-                database.getPs().setString(4,temp.getHibridName());
-                database.getPs().setString(5, temp.getPatentNumber());
-                database.getPs().setDate(6, Date.valueOf(temp.getStartDate()));
-                database.getPs().setDate(7, Date.valueOf(temp.getEndDate()));
-                database.getPs().setString(8, temp.getPatentOwner());
-                database.getPs().setString(9, temp.getStartRegisterDate());
+                database.getPs().setInt(1,temp.getID());
+                database.getPs().setString(2, temp.getNAME());
+                database.getPs().setInt(3, temp.getCODE());
+                database.getPs().setString(4,temp.getHIBRID_NAME());
+                database.getPs().setString(5, temp.getPATENT_NUMBER());
+                database.getPs().setDate(6, valueOf(temp.getSTART_DATE()));
+                database.getPs().setDate(7, valueOf(temp.getEND_DATE()));
+                database.getPs().setString(8, temp.getPATENT_OWNER());
+                database.getPs().setString(9, temp.getSTART_REGISTER_DATE());
 
 
 
@@ -88,7 +89,6 @@ public class DatabaseQueries {
     // Function for inserting information about seeds => for DOM Parser
     public static void insertSeedDomParser(NodeList seedNodeList) throws SQLException {
 
-        DatabaseQueries.cleanSeedTable();
 
         Database database = new Database();
         String sql;
@@ -107,8 +107,8 @@ public class DatabaseQueries {
                 database.getPs().setInt(3, Integer.valueOf(seedElement.getElementsByTagName("CODE").item(0).getTextContent()));
                 database.getPs().setString(4, seedElement.getElementsByTagName("HIBRID_NAME").item(0).getTextContent());
                 database.getPs().setString(5, seedElement.getElementsByTagName("PATENT_NUMBER").item(0).getTextContent());
-                database.getPs().setDate(6, Date.valueOf(seedElement.getElementsByTagName("START_DATE").item(0).getTextContent()));
-                database.getPs().setDate(7, Date.valueOf(seedElement.getElementsByTagName("END_DATE").item(0).getTextContent()));
+                database.getPs().setDate(6, valueOf(seedElement.getElementsByTagName("START_DATE").item(0).getTextContent()));
+                database.getPs().setDate(7, valueOf(seedElement.getElementsByTagName("END_DATE").item(0).getTextContent()));
                 database.getPs().setString(8, seedElement.getElementsByTagName("PATENT_OWNER").item(0).getTextContent());
                 database.getPs().setString(9, seedElement.getElementsByTagName("START_REGISTER_DATE").item(0).getTextContent());
 
@@ -117,6 +117,7 @@ public class DatabaseQueries {
                 database.getPs().executeUpdate();
                 database.getConnection().commit();
             }
+
 
         }catch (SQLException e) {
             e.printStackTrace();
@@ -145,21 +146,22 @@ public class DatabaseQueries {
 
                 Seed seed = new Seed();
 
-                seed.setId(database.getRs().getInt("id"));
-                seed.setName(database.getRs().getString("name"));
-                seed.setCode(database.getRs().getInt("code"));
-                seed.setHibridName(database.getRs().getString("hibrid_name"));
-                seed.setPatentNumber(database.getRs().getString("patent_number"));
-                seed.setPatentOwner(database.getRs().getString("patent_owner"));
-                seed.setStartDate(database.getRs().getDate("start_date").toString());
-                seed.setEndDate(database.getRs().getDate("end_date").toString());
-                seed.setStartRegisterDate(database.getRs().getString("start_register_date"));
+                seed.setID(database.getRs().getInt("id"));
+                seed.setNAME(database.getRs().getString("name"));
+                seed.setCODE(database.getRs().getInt("code"));
+                seed.setHIBRID_NAME(database.getRs().getString("hibrid_name"));
+                seed.setPATENT_NUMBER(database.getRs().getString("patent_number"));
+                seed.setPATENT_OWNER(database.getRs().getString("patent_owner"));
+                seed.setSTART_DATE(database.getRs().getDate("start_date").toString());
+                seed.setEND_DATE(database.getRs().getDate("end_date").toString());
+                seed.setSTART_REGISTER_DATE(database.getRs().getString("start_register_date"));
 
-                database.getConnection().commit();
                 System.out.println(seed);
 
             }
 
+            DatabaseQueries.cleanSeedTable();
+            database.getConnection().commit();
         }catch (SQLException e) {
             e.printStackTrace();
         } finally {

@@ -18,7 +18,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DomParser {
+public class DOMParser {
 
     public static void main(String[] args) {
 
