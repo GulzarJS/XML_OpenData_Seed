@@ -40,7 +40,7 @@ public class DatabaseQueries {
     }
 
     // Function for inserting information about seeds => for DOM Parser
-    public static void insertSeedSaxParser(List<Seed> seedNodeList) throws SQLException {
+    public static void insertSeedSaxStaxParser(List<Seed> seedNodeList) throws SQLException {
 
         DatabaseQueries.cleanSeedTable();
 

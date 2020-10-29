@@ -31,7 +31,7 @@ public class SaxParser {
 
 
 
-            DatabaseQueries.insertSeedSaxParser(seedList);
+            DatabaseQueries.insertSeedSaxStaxParser(seedList);
             DatabaseQueries.selectSeed();
 
 
